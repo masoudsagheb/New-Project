@@ -1,13 +1,13 @@
-/Start
-/menu :
+@/Start
+#/menu :
 +/video :
-/buy :
-/sell:
-/find :
-/blockchain :
-/block:
-/blockback
-/hash :
-/hashback :
-/hashprice :
-/hashpriceback :
++/buy :
+_/sell:
++/find :
++/blockchain :
++/block:
++/blockback
++/hash :
++/hashback :
++/hashprice :
++/hashpriceback :
