@@ -1,5 +1,14 @@
-/Start
-/menu :
-+/video :
-/buy :
-/sell:
+_/start :
+# menu :
+-/video :
+-/buy :
+-/sell :
+-/find :
+@@/blockchain :
+-/block :
+-/blockback :
+-/hash :
+-/hashblockback :
+-/price :
+-/hashpriceback :
+
